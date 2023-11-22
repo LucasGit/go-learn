@@ -1,10 +1,10 @@
-# basic
+# Book
 - https://golang-china.github.io/gopl-zh/
 
 
 
 
-# syntax
+# Chapter
 - 5 function
     - 1. define
     - 2. recursive
@@ -12,7 +12,9 @@
     - 4.
     - 5.
     - 6. anonymous
-    
+
+- 6 method
+    - 1. declare
 
 
 
